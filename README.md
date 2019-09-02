@@ -1,4 +1,4 @@
-Vue-calculator
+# Vue-calculator
 This is an example app built with Vue.
 
 Build Setup
